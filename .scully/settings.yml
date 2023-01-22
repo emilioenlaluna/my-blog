@@ -1,0 +1,11 @@
+identifier: l7d072d11f82w0i0
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /root/angular/my-blog
+distFolder: dist/my-blog
+outDir: /root/angular/my-blog/dist/static
+handle404: ''
+allowErrorCollect: true
